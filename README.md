@@ -1,12 +1,12 @@
 # Stock-Analysis
-## Overview of Project:
+## Overview of Project
 ### Purpose 
  make this code cleaner, in order to run through larger data sets in the future. While the initial code achieved the desired analysis goal, it ran much slower than the refactored code.  
 ### Background 
 Steve’s Parent’s bought 
 1st 	
 We helped Steve analyze a range of stocks so that he can inform his parents whether they have made a good decision in the stock market. They can then use this information to help guide their decisions going forward. 
-## Results:
+## Results
 ### 2017 performance 
 	2017 was a good year for this group of stocks. All but 1 of our 12 stocks ended the year in the green. “DQ” the Stocks Steve’s Parents originally invested in, did particularly well with a 199.4% return.  
 	(picture of 2017 output table and picture of 2017 Runtime)
@@ -17,7 +17,7 @@ We helped Steve analyze a range of stocks so that he can inform his parents whet
 	Our Analysis 
 ### Refactored code 
 
-## Summary:
+## Summary
 ### Advantages and Disadvantages of Refactoring Code in General
 	Refactored code can make the code cleaner and easier to use in practice in the long run. While it may be easier and faster to execute, it can take longer time to think out and write the code. When you write code one way, it can be difficult to step back and rethink what could make this code better. The time taken to make code better and easier to read, does not always mean that it will save you time on that particular project. However, it will allow you to apply the code to a larger dataset with more ease. 
 ### Advantages and Disadvantages of the original and Refactored VBA Script
