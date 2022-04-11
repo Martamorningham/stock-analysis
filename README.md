@@ -4,8 +4,8 @@
 
  make this code cleaner, in order to run through larger data sets in the future. While the initial code achieved the desired analysis goal, it ran much slower than the refactored code.  
 ### Background 
-Steve’s Parent’s bought ticker "DQ" becasue the ticker reminded them of the Dairy Queen they met at. With our help Steve  analyzed a series of 12 different stocks to determine wether "DQ" has been the best investment for the family, or if they should be looking at other stocks. We first looked at the year 2018, but then made some changes so we could look ath both 2017 and 2018. We did this by adding the below Inputbox: 
-yearValue = InputBox("What year would you like to run the analysis on?")	
+Steve’s Parent’s bought ticker "DQ" becasue the ticker reminded them of the Dairy Queen they met at. With our help Steve  analyzed a series of 12 different stocks to determine wether "DQ" has been the best investment for the family, or if they should be looking at other stocks. We first looked at the year 2018, but then made some changes so we could look ath both 2017 and 2018. We did this by adding the below Inputbox 
+	yearValue = InputBox("What year would you like to run the analysis on?")	
 This allowed us to input the year that we want to anlyze. 
 
 
