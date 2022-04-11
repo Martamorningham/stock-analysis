@@ -1,19 +1,19 @@
 # Stock-Analysis
 ## Overview of Project:
-### Purpose: 
+### Purpose 
  make this code cleaner, in order to run through larger data sets in the future. While the initial code achieved the desired analysis goal, it ran much slower than the refactored code.  
-### Background: 
+### Background 
 Steve’s Parent’s bought 
 1st 	
 We helped Steve analyze a range of stocks so that he can inform his parents whether they have made a good decision in the stock market. They can then use this information to help guide their decisions going forward. 
 ## Results:
-### 2017 performance: 
+### 2017 performance 
 	2017 was a good year for this group of stocks. All but 1 of our 12 stocks ended the year in the green. “DQ” the Stocks Steve’s Parents originally invested in, did particularly well with a 199.4% return.  
 	(picture of 2017 output table and picture of 2017 Runtime)
-### 2018 performance: 
+### 2018 performance 
 	Bad year for stocks, only 2 of the 12 stocks ended the year in the green. It was particularly bad 
 	(picture of 2017 output table and picture of 2017 Runtime)
-### 2017 vs 2018:
+### 2017 vs 2018
 	Our Analysis 
 ### Refactored code 
 
