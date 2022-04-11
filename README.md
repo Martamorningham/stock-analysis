@@ -18,9 +18,9 @@ We helped Steve analyze a range of stocks so that he can inform his parents whet
 ### Refactored code 
 
 ## Summary:
-### Advantages and Disadvantages of Refactoring Code in General:
+### Advantages and Disadvantages of Refactoring Code in General
 	Refactored code can make the code cleaner and easier to use in practice in the long run. While it may be easier and faster to execute, it can take longer time to think out and write the code. When you write code one way, it can be difficult to step back and rethink what could make this code better. The time taken to make code better and easier to read, does not always mean that it will save you time on that particular project. However, it will allow you to apply the code to a larger dataset with more ease. 
-### Advantages and Disadvantages of the original and Refactored VBA Script:
+### Advantages and Disadvantages of the original and Refactored VBA Script
 	
 	According to the Timer, the refactored code ran much faster than the original code from the module. That said, the amount of time taken and the run time displayed in the “AllStocksAnalysis” code do not match up. The displayed runtime for 2017 was 61390.29 seconds and the displayed runtime for 2018 was 61352.54. 
 (display photos of original run times)
