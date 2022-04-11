@@ -4,12 +4,16 @@
 
  make this code cleaner, in order to run through larger data sets in the future. While the initial code achieved the desired analysis goal, it ran much slower than the refactored code.  
 ### Background 
-Steve’s Parent’s bought 
-1st 	
-We helped Steve analyze a range of stocks so that he can inform his parents whether they have made a good decision in the stock market. They can then use this information to help guide their decisions going forward. 
+Steve’s Parent’s bought ticker "DQ" becasue the ticker reminded them of the Dairy Queen they met at. With our help Steve  analyzed a series of 12 different stocks to determine wether "DQ" has been the best investment for the family, or if they should be looking at other stocks. We first looked at the year 2018, but then made some changes so we could look ath both 2017 and 2018. We did this by adding the below Inputbox: 
+yearValue = InputBox("What year would you like to run the analysis on?")	
+This allowed us to input the year that we want to anlyze. 
+
+
+added a Once we completed the initial analysis, Steve realized that we would like 
+ 	
 ## Results
 
-### 2017 performance 
+### 2017 performance
 
 2017 was a good year for this group of stocks. All but 1 of our 12 stocks ended the year in the green. “DQ” the Stocks Steve’s Parents originally invested in, did particularly well with a 199.4% return.  
 ![2017_fullsheet](https://user-images.githubusercontent.com/101226991/162647138-7dcc0a5a-fe50-483e-9d9e-721b8e3506d2.png)
